@@ -1,0 +1,13 @@
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\bin\Debug\PatientValidation.exe
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\bin\Debug\PatientValidation.pdb
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\bin\Debug\UAE_IDCardCSharpAPI.dll
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\bin\Debug\UAE_IDCardCSharpWrapper.dll
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\bin\Debug\SignatureUpgrade.dll
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\obj\Debug\PatientValidation.csprojResolveAssemblyReference.cache
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\obj\Debug\PatientValidation.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\obj\Debug\PatientValidation.csproj.CopyComplete
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\obj\Debug\PatientValidation.exe
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\obj\Debug\PatientValidation.pdb
+C:\Users\Thiago Santos\Downloads\EIDA\PatientValidation\PatientValidation\bin\Debug\sm.cfg
